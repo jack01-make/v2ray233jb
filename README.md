@@ -13,4 +13,4 @@ yum update -y && yum install curl -y
 原始地址
 bash <(curl -s -L https://git.io/v2ray.sh)
 备份地址
-bash <(curl -s -L https://raw.githubusercontent.com/pansongjun/v2ray233jb/master/install.sh?v)
+bash <(curl -s -L https://raw.githubusercontent.com/jack01-make/v2ray233jb/master/install.sh?v)
